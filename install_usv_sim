@@ -1,1 +1,1 @@
-cp .uwsim ~
+cp -r .uwsim ~
