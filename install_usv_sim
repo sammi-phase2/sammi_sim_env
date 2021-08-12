@@ -1,1 +1,1 @@
-cp -r .uwsim ~
+cp -r .uwsim /root/
